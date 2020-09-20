@@ -1,0 +1,35 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+h1
+{
+    text-align: center;
+    font-family: sans-serif;
+    color:#647eba;
+    font-size: 45px;
+}
+p
+{
+    font-family: cursive;
+    font-size:20px;
+}
+h3
+{
+    font-family:cursive;
+     color:#647eba;
+}
+ul
+{
+    text-decoration: inherit;
+    color:#ed1111;
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
